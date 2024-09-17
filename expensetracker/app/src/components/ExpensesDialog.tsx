@@ -35,7 +35,7 @@ const ExpensesDialog: React.FC = () => {
       shadow={false}
       className=" flex flex-col max-w-[24rem] top-0 w-full h-[38px] box-border rounded-sm"
     >
-      <Typography variant="h2">Declare Expense Sources</Typography>
+      <Typography variant="h2">Expense Sources</Typography>
 
       <form className="mt-8 mb-2 w-80 max-w-screen-lg sm:w-96">
         <div className="flex flex-col mb-3 gap-y-2 p-4 mt-2 ">
